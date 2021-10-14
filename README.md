@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ... my portfolio.
+
 
 <!-- ![Tifanny's github stats](https://github-readme-stats.vercel.app/api?username=trivera777&show_icons=true&theme=radical) -->
 
