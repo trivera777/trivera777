@@ -2,7 +2,7 @@
 
 ### :new_moon_with_face: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;Currently enrolled in the [University of Denver](https://www.du.edu/)'s Coding Boot Camp. \
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;Currently enrolled at the [University of Denver](https://www.du.edu/)'s Coding Boot Camp. \
 &nbsp;&nbsp;&nbsp;:calendar: &nbsp;Graduation date Dec 9, 2021. \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for the outdoors.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passion for web design.\
