@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![mountains]('/mountains.png')
-
 ### :new_moon_with_face: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Currently enrolled at the University of Denver's Coding Boot Camp. \
