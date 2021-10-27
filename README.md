@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### :new_moon_with_face: &nbsp;About Me
+:new_moon_with_face: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Currently enrolled at the University of Denver's Coding Boot Camp. \
 &nbsp;&nbsp;&nbsp;:calendar: &nbsp;Graduation date Dec 9, 2021. \
