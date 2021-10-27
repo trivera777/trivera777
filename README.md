@@ -5,10 +5,10 @@
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Currently enrolled at the University of Denver's Coding Boot Camp. \
 &nbsp;&nbsp;&nbsp;:calendar: &nbsp;Graduation date Dec 9, 2021. \
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning how to increase web performance through JS Compress and Lighthouse.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for the outdoors.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passion for web design.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since June 2021.\
-&nbsp;&nbsp;&nbsp;:mountain_snow: &nbsp;Living in CO.
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;I enjoy being outdoors any chance I get.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;I have a passion for front end development.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;I have been coding since June 2021.\
+&nbsp;&nbsp;&nbsp;:mountain_snow: &nbsp;Living in Colorado.
 
 
 <hr/>
