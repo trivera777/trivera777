@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;:calendar: &nbsp;Graduation date Dec 9, 2021. \
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning how to increase web performance through JS Compress and Lighthouse.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;I enjoy being outdoors any chance I get.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;I have a passion for front end development.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passion for front end development.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;I have been coding since June 2021.\
 &nbsp;&nbsp;&nbsp;:mountain_snow: &nbsp;Living in Colorado.
 
