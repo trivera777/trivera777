@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Currently enrolled at the University of Denver's Coding Boot Camp. \
 &nbsp;&nbsp;&nbsp;:calendar: &nbsp;Graduation date Dec 9, 2021. \
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning REACT :metal:	:metal:	
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning REACT :metal:	:metal:	\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;I enjoy being outdoors any chance I get.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passion for front end development.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;I have been coding since June 2021.\
