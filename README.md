@@ -1,6 +1,6 @@
 :new_moon_with_face: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;Recent graduate from University of Denver's Coding Boot Camp, Dec 9, 2021. \
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;Recent graduate from University of Denver's Coding Boot Camp. \
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently working on a mock social media app made with React. \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passion for front end development.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;I enjoy being outdoors any chance I get.\
