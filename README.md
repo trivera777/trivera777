@@ -7,6 +7,7 @@
 &nbsp;&nbsp;&nbsp;:mountain_snow: &nbsp;Living in Colorado.
 
 
+
 <hr/>
 <p align="center">
   <a href="mailto:trivera51580@gmail.com?subject=Hello%20Tifanny%20Rivera"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,7 +58,6 @@
 <br/>
 
 <p align="right">
-  ![Tifanny's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivera777&theme=dracula&show_icons=true)
 <img src="https://komarev.com/ghpvc/?username=trivera777&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/trivera777/trivera777?color=black&logo=github" />
 </p>
