@@ -57,6 +57,7 @@
 <br/>
 
 <p align="right">
+  ![Tifanny's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivera777&theme=dracula&show_icons=true)
 <img src="https://komarev.com/ghpvc/?username=trivera777&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/trivera777/trivera777?color=black&logo=github" />
 </p>
