@@ -1,3 +1,4 @@
+<hr/>
 :new_moon_with_face: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Recent graduate from University of Denver's Coding Boot Camp. \
@@ -35,14 +36,15 @@
   
 <hr/>
 
-  <summary><b>:gear: &nbsp;GitHub Stats</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=trivera777&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=trivera777&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivera777&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
+:gear: &nbsp;GitHub Stats
+<br/>
+
+  <p align="center">
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=trivera777&hide_border=true&theme=nightowl" />
+  </p>
+<p align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=trivera777&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivera777&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+</p>
 
 
 <br/>
@@ -51,3 +53,5 @@
 <img src="https://komarev.com/ghpvc/?username=trivera777&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/trivera777/trivera777?color=black&logo=github" />
 </p>
+
+<hr/>
