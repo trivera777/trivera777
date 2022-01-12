@@ -16,7 +16,7 @@
 </p>
 <hr/>
 
-  <summary><b>:computer: &nbsp;Tech knowledge</b></summary>
+  <summary>:computer: &nbsp;Tech knowledge</summary>
   <br/>
 
 
