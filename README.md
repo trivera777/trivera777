@@ -14,7 +14,6 @@
   <a href="https://www.instagram.com/tifann_y/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tifannyrivera/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<hr/>
 
   # :computer: &nbsp;Tech knowledge
   <br/>
@@ -36,7 +35,7 @@
   
 <hr/>
 
-:gear: &nbsp;GitHub Stats
+# :gear: &nbsp;GitHub Stats
 <br/>
 
   <p align="center">
