@@ -7,8 +7,6 @@
 &nbsp;&nbsp;&nbsp;:mountain_snow: &nbsp;Living in Colorado.
 
 
-
-<hr/>
 <p align="center">
   <a href="mailto:trivera51580@gmail.com?subject=Hello%20Tifanny%20Rivera"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/tifann_y/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,8 +30,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-  
-<hr/>
+ 
 
 # :gear: &nbsp;GitHub Stats
 <br/>
