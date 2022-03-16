@@ -3,8 +3,7 @@
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Recent graduate from University of Denver's Coding Boot Camp. \
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently re-doing my portfolio. \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passion for front end development.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;I enjoy being outdoors any chance I get.\
-&nbsp;&nbsp;&nbsp;:mountain_snow: &nbsp;Living in Colorado.
+&nbsp;&nbsp;&nbsp;:mountain_snow: &nbsp;I live in Colorado and enjoy traveling, coding, working out and riding my bike.
 
 
 <p align="center">
