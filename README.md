@@ -1,7 +1,7 @@
 # :new_moon_with_face: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Recent graduate from University of Denver's Coding Boot Camp. \
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently re-doing my portfolio. \
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently working on a Weather App project. \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passion for front end development.\
 &nbsp;&nbsp;&nbsp;:mountain_snow: &nbsp;I live in Colorado and enjoy traveling, coding, working out and riding my bike.
 
