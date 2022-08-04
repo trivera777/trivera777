@@ -45,5 +45,3 @@
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=trivera777&style=plastic&label=Views"><img>
 </p>
-
-<hr/>
