@@ -1,7 +1,7 @@
 # :new_moon_with_face: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Recent graduate from University of Denver's Coding Boot Camp. \
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently working on an Instagram clone using React. \
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently working on my notary business website - Absolute Notary LLC. \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passion for front end development.\
 &nbsp;&nbsp;&nbsp;:mountain_snow: &nbsp;I live in Colorado and enjoy traveling, coding, working out and mountain biking.
 
