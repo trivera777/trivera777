@@ -36,9 +36,9 @@
 
 <p align="center">
 <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=trivera777&hide_border=true&theme=nord" /><br/>
-  
+  <p align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivera777&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord" /><br/>
-  
+  <p align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=trivera777&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord" /> <br/>
 </p>
 
