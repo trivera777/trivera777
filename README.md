@@ -31,6 +31,7 @@
 <br/>
 
 <!--   <p align="center"> -->
+<p>
     <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=trivera777&hide_border=true&theme=nord" />
   </p>
 <!-- <p align="center"> -->
